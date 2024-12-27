@@ -42,4 +42,7 @@ The car rental industry is growing, and having an easy-to-use platform that simp
 ---
 
 ## Conclusion 🎉
-This project helped me strengthen my skills in web development while focusing on creating an intuitive user experience. It sets the foundation for building more complex applications and expanding functionality to cater to users' needs
+This project enhanced my web development skills, providing experience in creating user-friendly platforms and laying the foundation for adding advanced features in the future.
+
+
+[Rent a Ride](https://1cs50pamgwshnektkne15g.on.drv.tw/www.Rent-a-Ride.com/index.html.html)
